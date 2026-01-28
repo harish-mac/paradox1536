@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doxd
+- 👋 Hi, I’m @harish
 - 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on basic and new projects
